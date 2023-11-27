@@ -1,33 +1,35 @@
-# 贡献指南
+# Contribution Guidelines
 
-我们非常感谢你对 `Awesome DevTools` 项目的兴趣和支持！如果你希望贡献，请遵循以下指南。
+[中文版](CONTRIBUTING.zh.md)
 
-## 反馈和建议
+We greatly appreciate your interest and support for the `Awesome DevTools` project! If you would like to contribute, please follow these guidelines.
 
-如果你有任何反馈、建议或发现了有价值的新工具，欢迎通过以下方式与我们分享：
-- **提交 Issue**: 如果你有建议或发现了问题，可以通过GitHub的Issue跟踪器提交。
-- **讨论区**: 对于更广泛的讨论或提出想法，可以使用GitHub的Discussions功能。
+## Feedback and Suggestions
 
-## 如何提交工具
+If you have any feedback, suggestions, or have discovered a valuable new tool, we welcome you to share with us through the following means:
+- **Submit an Issue**: If you have suggestions or have found a problem, you can submit it through GitHub's Issue tracker.
+- **Discussion Forum**: For broader discussions or to propose ideas, you can use GitHub's Discussions feature.
 
-想要添加新工具到列表中？请遵循以下步骤：
-1. **检查重复**: 在添加之前，请确保该工具还没有被列出。
-2. **工具信息**: 提供工具的名称、官方下载链接、简短描述和（如果可能）相关的使用资源。
-3. **编辑README.md**: 将你的工具按照适当的格式和分类添加到 `README.md` 文件中。
+## How to Submit a Tool
 
-## 提交更改
+Want to add a new tool to the list? Please follow these steps:
+1. **Check for Duplicates**: Before adding, please ensure that the tool has not already been listed.
+2. **Tool Information**: Provide the name of the tool, the official download link, a brief description, and (if possible) related usage resources.
+3. **Edit README.md**: Add your tool to the `README.md` file in the appropriate format and category.
 
-1. **Fork 仓库**: 首先，Fork `Awesome DevTools` 仓库到你的GitHub账户下。
-2. **创建分支**: 在你的Fork中，创建一个新的分支进行更改。
-3. **提交更改**: 在你的分支中提交你的更改。
-4. **提交 Pull Request**: 向原始仓库提交一个Pull Request。请在PR中详细说明你的更改和原因。
+## Submitting Changes
 
-## 代码规范
+1. **Fork the Repository**: First, fork the `Awesome DevTools` repository to your GitHub account.
+2. **Create a Branch**: In your fork, create a new branch for your changes.
+3. **Commit Your Changes**: Commit your changes in your branch.
+4. **Submit a Pull Request**: Submit a Pull Request to the original repository. Please explain your changes and reasons in detail in the PR.
 
-- **Markdown格式**: 所有提交都应遵循基本的Markdown格式规范。
-- **清晰准确**: 确保你的描述是清晰和准确的。
+## Code Standards
 
-## 最后但同等重要
+- **Markdown Format**: All submissions should follow basic Markdown formatting standards.
+- **Clarity and Accuracy**: Ensure that your descriptions are clear and accurate.
 
-- **尊重版权和许可**: 只推荐那些合法和遵守相应许可的工具。
-- **包容性和尊重**: 我们致力于创造一个欢迎所有人的环境。在你的交流和贡献中，请保持友好和尊重。
+## Last but Equally Important
+
+- **Respect Copyright and Licensing**: Only recommend tools that are legal and comply with their respective licenses.
+- **Inclusivity and Respect**: We are committed to creating an environment that welcomes everyone. In your interactions and contributions, please remain friendly and respectful.
