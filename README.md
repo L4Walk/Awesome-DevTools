@@ -1,9 +1,24 @@
 # Awesome DevTools
 
+<style>
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+table th:nth-of-type(3) {
+    width: 10%;
+}
+table th:nth-of-type(4) {
+    width: 15%;
+}
+</style>
+
 [中文版](README.zh.md)
 
 ## Introduction
-Welcome to `Awesome DevTools`! This repository aims to be a valuable resource for developers, offering links to a variety of useful development tools and resources. Whether you are a front-end developer, back-end engineer, or a full-stack developer, there's something here for everyone!
+Welcome to `Awesome DevTools`! This repository aims to be a valuable resource for developers, providing links to a variety of useful development tools and resources. Whether you are a front-end developer, back-end engineer, or full-stack developer, there is always something for you here!
 
 ## Table of Contents
 - [Code Editors and IDEs](#code-editors-and-ides)
@@ -16,51 +31,56 @@ Welcome to `Awesome DevTools`! This repository aims to be a valuable resource fo
 - [Acknowledgments](#acknowledgments)
 - [License](#license)
 
-## Code Editors and IDEs
-### Visual Studio Code
-- **Description**: Visual Studio Code is a lightweight yet powerful source code editor, supporting a variety of programming languages.
-- **Download Link**: [Visual Studio Code](https://code.visualstudio.com/)
-- **Resources**: [VS Code Documentation](https://code.visualstudio.com/docs)
+Of course, I can help you convert the various categories in the document into table format. Here is the converted content:
 
-### IntelliJ IDEA
-- **Description**: IntelliJ IDEA is an advanced integrated development environment, designed for the Java language, supporting a variety of modern and traditional technologies.
-- **Download Link**: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- **Resources**: [IntelliJ IDEA Tutorial](https://www.jetbrains.com/idea/guide/)
+### Code Editors and IDEs
 
-## Version Control Tools
-### Git
-- **Description**: Git is a distributed version control system used for tracking changes in files within a project.
-- **Download Link**: [Git](https://git-scm.com/)
-- **Resources**: [Official Git Documentation](https://git-scm.com/doc)
+| Name | Description | Link | Resources |
+| --- | --- | --- | --- |
+| Visual Studio Code | Visual Studio Code is a lightweight yet powerful source code editor that supports multiple programming languages. | [Download Link](https://code.visualstudio.com/) | [VS Code Documentation](https://code.visualstudio.com/docs) |
+| IntelliJ IDEA | IntelliJ IDEA is an advanced integrated development environment designed for the Java language, supporting a variety of modern and traditional technologies. | [Download Link](https://www.jetbrains.com/idea/) | [IntelliJ IDEA Tutorial](https://www.jetbrains.com/idea/guide/) |
 
-## Debugging and Performance Analysis Tools
-### Chrome DevTools
-- **Description**: Chrome DevTools is a set of web development and debugging tools built into Google Chrome.
-- **Resources**: [Chrome DevTools Documentation](https://developer.chrome.com/docs/devtools/)
 
-## Build and Deployment Tools
-### Jenkins
-- **Description**: Jenkins is an open-source automation server used for automating the build, test, and deployment of software projects.
-- **Download Link**: [Jenkins](https://www.jenkins.io/)
-- **Resources**: [Jenkins Documentation](https://www.jenkins.io/doc/)
+### Version Control Tools
 
-## Code Quality and Formatting Tools
-### ESLint
-- **Description**: ESLint is a pluggable JavaScript code quality and formatting tool.
-- **Download Link**: [ESLint](https://eslint.org/)
-- **Resources**: [ESLint User Guide](https://eslint.org/docs/user-guide/)
+| Name | Description | Link | Resources |
+| --- | --- | --- | --- |
+| Git | Git is a distributed version control system for tracking changes in source code during software development. | [Download Link](https://git-scm.com/) | [Git Documentation](https://git-scm.com/doc) |
+| Subversion | Apache Subversion is a software versioning and revision control system distributed under an open source license. | [Download Link](https://subversion.apache.org/) | [Subversion Documentation](https://subversion.apache.org/docs/) |
 
-## API Development and Testing Tools
-### Postman
-- **Description**: Postman is a popular API development environment for testing API interfaces.
-- **Download Link**: [Postman](https://www.postman.com/)
-- **Resources**: [Postman Learning Center](https://learning.postman.com/)
+
+### Debugging and Performance Analysis Tools
+
+| Name | Description | Link | Resources |
+| --- | --- | --- | --- |
+| Chrome DevTools | Chrome DevTools is a set of web development and debugging tools built into Google Chrome. | | [Chrome DevTools Documentation](https://developer.chrome.com/docs/devtools/) |
+
+
+### Build and Deployment Tools
+| Name | Description | Link | Resources |
+| --- | --- | --- | --- |
+| Jenkins | Jenkins is an open-source automation server used for automating the building, testing, and deploying of software projects. | [Download Link](https://www.jenkins.io/) | [Jenkins Documentation](https://www.jenkins.io/doc/) |
+
+
+### Code Quality and Formatting Tools
+
+| Name | Description | Link | Resources |
+| --- | --- | --- | --- |
+| ESLint | ESLint is a pluggable JavaScript code quality and formatting tool. | [Download Link](https://eslint.org/) | [ESLint User Guide](https://eslint.org/docs/user-guide/) |
+
+
+### API Development and Testing Tools
+
+| Name | Description | Link | Resources |
+| --- | --- | --- | --- |
+| Postman | Postman is a popular API development environment used for testing API interfaces. | [Download Link](https://www.postman.com/) | [Postman Learning Center](https://learning.postman.com/) |
+
 
 ## Contribution Guidelines
-We welcome and encourage community members to contribute to `Awesome DevTools`! Please check our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+We welcome and encourage community members to contribute to `Awesome DevTools`! Please check our [Contribution Guidelines](CONTRIBUTING.md) for how to get started.
 
 ## Acknowledgments
-Special thanks to all the individuals and organizations who have contributed to this project!
+Special thanks to all individuals and organizations who have contributed to this project!
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
