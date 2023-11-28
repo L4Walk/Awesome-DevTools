@@ -16,45 +16,46 @@
 - [致谢](#致谢)
 - [许可证](#许可证)
 
-## 代码编辑器和IDEs
-### Visual Studio Code
-- **描述**: Visual Studio Code是一个轻量级但功能强大的源代码编辑器，支持多种编程语言。
-- **下载链接**: [Visual Studio Code](https://code.visualstudio.com/)
-- **资源**: [VS Code文档](https://code.visualstudio.com/docs)
+当然，我可以帮助您将文档中的各个分类转换成表格形式。以下是转换后的内容：
 
-### IntelliJ IDEA
-- **描述**: IntelliJ IDEA是一个先进的集成开发环境，专为Java语言设计，支持多种现代和传统技术。
-- **下载链接**: [IntelliJ IDEA](https://www.jetbrains.com/idea/)
-- **资源**: [IntelliJ IDEA教程](https://www.jetbrains.com/idea/guide/)
+### 代码编辑器和IDEs
 
-## 版本控制工具
-### Git
-- **描述**: Git是一个分布式版本控制系统，用于跟踪项目中文件的更改。
-- **下载链接**: [Git](https://git-scm.com/)
-- **资源**: [Git官方文档](https://git-scm.com/doc)
+| 名称             | 描述                                                         | 链接                                                         | 资源                                                         |
+| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Visual Studio Code | Visual Studio Code是一个轻量级但功能强大的源代码编辑器，支持多种编程语言。 | [下载链接](https://code.visualstudio.com/) | [VS Code文档](https://code.visualstudio.com/docs) |
+| IntelliJ IDEA    | IntelliJ IDEA是一个先进的集成开发环境，专为Java语言设计，支持多种现代和传统技术。 | [下载链接](https://www.jetbrains.com/idea/) | [IntelliJ IDEA教程](https://www.jetbrains.com/idea/guide/) |
 
-## 调试和性能分析工具
-### Chrome DevTools
-- **描述**: Chrome DevTools是一套内置于Google Chrome中的Web开发和调试工具。
-- **资源**: [Chrome DevTools文档](https://developer.chrome.com/docs/devtools/)
+### 版本控制工具
 
-## 构建和部署工具
-### Jenkins
-- **描述**: Jenkins是一个开源自动化服务器，用于自动化构建、测试和部署软件项目。
-- **下载链接**: [Jenkins](https://www.jenkins.io/)
-- **资源**: [Jenkins文档](https://www.jenkins.io/doc/)
+| 名称 | 描述                                                         | 链接                                                         | 资源                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Git  | Git是一个分布式版本控制系统，用于跟踪项目中文件的更改。       | [下载链接](https://git-scm.com/) | [Git官方文档](https://git-scm.com/doc) |
 
-## 代码质量和格式化工具
-### ESLint
-- **描述**: ESLint是一个插件化的JavaScript代码质量和格式化工具。
-- **下载链接**: [ESLint](https://eslint.org/)
-- **资源**: [ESLint用户指南](https://eslint.org/docs/user-guide/)
+### 调试和性能分析工具
 
-## API开发和测试工具
-### Postman
-- **描述**: Postman是一个流行的API开发环境，用于测试API接口。
-- **下载链接**: [Postman](https://www.postman.com/)
-- **资源**: [Postman学习中心](https://learning.postman.com/)
+| 名称           | 描述                                                         | 资源                                                         |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Chrome DevTools | Chrome DevTools是一套内置于Google Chrome中的Web开发和调试工具。 | [Chrome DevTools文档](https://developer.chrome.com/docs/devtools/) |
+
+### 构建和部署工具
+
+| 名称    | 描述                                                         | 链接                                                         | 资源                                                         |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Jenkins | Jenkins是一个开源自动化服务器，用于自动化构建、测试和部署软件项目。 | [下载链接](https://www.jenkins.io/) | [Jenkins文档](https://www.jenkins.io/doc/) |
+
+### 代码质量和格式化工具
+
+| 名称    | 描述                                                         | 链接                                                         | 资源                                                         |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ESLint  | ESLint是一个插件化的JavaScript代码质量和格式化工具。         | [下载链接](https://eslint.org/) | [ESLint用户指南](https://eslint.org/docs/user-guide/) |
+
+### API开发和测试工具
+
+| 名称    | 描述                                                         | 链接                                                         | 资源                                                         |
+| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Postman | Postman是一个流行的API开发环境，用于测试API接口。             | [下载链接](https://www.postman.com/) | [Postman学习中心](https://learning.postman.com/) |
+
+这样的表格形式可以更清晰地展示每个工具的名称、描述、下载链接和资源链接。
 
 ## 贡献指南
 我们欢迎并鼓励社区成员贡献到 `Awesome DevTools`！请查看我们的[贡献指南](CONTRIBUTING.md)了解如何开始。
