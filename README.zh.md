@@ -1,5 +1,20 @@
 # Awesome DevTools
 
+<style>
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+table th:nth-of-type(3) {
+    width: 10%;
+}
+table th:nth-of-type(4) {
+    width: 15%;
+}
+</style>
+
 [Read in Englis](README.md)
 
 ## 介绍
@@ -20,16 +35,16 @@
 
 ### 代码编辑器和IDEs
 
-| 名称             | 描述                                                         | 链接                                                         | 资源                                                         |
-| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 名称 | 描述 | 链接 | 资源 |
+| --- | --- | --- | --- |
 | Visual Studio Code | Visual Studio Code是一个轻量级但功能强大的源代码编辑器，支持多种编程语言。 | [下载链接](https://code.visualstudio.com/) | [VS Code文档](https://code.visualstudio.com/docs) |
 | IntelliJ IDEA    | IntelliJ IDEA是一个先进的集成开发环境，专为Java语言设计，支持多种现代和传统技术。 | [下载链接](https://www.jetbrains.com/idea/) | [IntelliJ IDEA教程](https://www.jetbrains.com/idea/guide/) |
 
 
 ### 版本控制工具
 
-| 名称             | 描述                                                         | 链接                                                         | 资源                                                         |
-| ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 名称 | 描述 | 链接 | 资源 |
+| --- | --- | --- | --- |
 | Visual Studio Code | Visual Studio Code是一个轻量级但功能强大的源代码编辑器，支持多种编程语言。 | [下载链接](https://code.visualstudio.com/) | [VS Code文档](https://code.visualstudio.com/docs) |
 | IntelliJ IDEA    | IntelliJ IDEA是一个先进的集成开发环境，专为Java语言设计，支持多种现代和传统技术。 | [下载链接](https://www.jetbrains.com/idea/) | [IntelliJ IDEA教程](https://www.jetbrains.com/idea/guide/) |
 
@@ -37,31 +52,30 @@
 
 ### 调试和性能分析工具
 
-| 名称           | 描述                                                         | 资源                                                         |
-| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Chrome DevTools | Chrome DevTools是一套内置于Google Chrome中的Web开发和调试工具。 | [Chrome DevTools文档](https://developer.chrome.com/docs/devtools/) |
+| 名称 | 描述 | 链接 | 资源 |
+| --- | --- | --- | --- |
+| Chrome DevTools | Chrome DevTools是一套内置于Google Chrome中的Web开发和调试工具。 | | [Chrome DevTools文档](https://developer.chrome.com/docs/devtools/) |
 
 
 
 ### 构建和部署工具
-
-| 名称    | 描述                                                         | 链接                                                         | 资源                                                         |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 名称 | 描述 | 链接 | 资源 |
+| --- | --- | --- | --- |
 | Jenkins | Jenkins是一个开源自动化服务器，用于自动化构建、测试和部署软件项目。 | [下载链接](https://www.jenkins.io/) | [Jenkins文档](https://www.jenkins.io/doc/) |
 
 
 ### 代码质量和格式化工具
 
-| 名称    | 描述                                                         | 链接                                                         | 资源                                                         |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ESLint  | ESLint是一个插件化的JavaScript代码质量和格式化工具。         | [下载链接](https://eslint.org/) | [ESLint用户指南](https://eslint.org/docs/user-guide/) |
+| 名称 | 描述 | 链接 | 资源 |
+| --- | --- | --- | --- |
+| ESLint  | ESLint是一个插件化的JavaScript代码质量和格式化工具。| [下载链接](https://eslint.org/) | [ESLint用户指南](https://eslint.org/docs/user-guide/) |
 
 
 ### API开发和测试工具
 
-| 名称    | 描述                                                         | 链接                                                         | 资源                                                         |
-| ------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Postman | Postman是一个流行的API开发环境，用于测试API接口。             | [下载链接](https://www.postman.com/) | [Postman学习中心](https://learning.postman.com/) |
+| 名称 | 描述 | 链接 | 资源 |
+| --- | --- | --- | --- |
+| Postman | Postman是一个流行的API开发环境，用于测试API接口。| [下载链接](https://www.postman.com/) | [Postman学习中心](https://learning.postman.com/) |
 
 
 
