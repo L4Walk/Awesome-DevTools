@@ -54,6 +54,7 @@ Of course, I can help you convert the various categories in the document into ta
 | Name | Description | Link | Resources |
 | --- | --- | --- | --- |
 | Chrome DevTools | Chrome DevTools is a set of web development and debugging tools built into Google Chrome. | | [Chrome DevTools Documentation](https://developer.chrome.com/docs/devtools/) |
+| agent-qa | Natural-language web, Android and iOS QA with persistent memidex memory, validated self-improvement and inspectable run evidence. FSL-1.1-ALv2 restricts competing use; model and infrastructure costs are separate. | [Website](https://vostride.com) | [Quickstart](https://vostride.com/docs/agent-qa/quickstart) · [Source](https://github.com/vostride/agent-qa) |
 
 
 ### Build and Deployment Tools

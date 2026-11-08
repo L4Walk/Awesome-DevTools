@@ -55,6 +55,7 @@ table th:nth-of-type(4) {
 | 名称 | 描述 | 链接 | 资源 |
 | --- | --- | --- | --- |
 | Chrome DevTools | Chrome DevTools是一套内置于Google Chrome中的Web开发和调试工具。 | | [Chrome DevTools文档](https://developer.chrome.com/docs/devtools/) |
+| agent-qa | 自然语言驱动的 Web、Android 和 iOS 测试，提供持久化 memidex 记忆、经验证的自我改进和可检查的运行证据。FSL-1.1-ALv2 限制竞争性使用；模型与基础设施费用另计。 | [官网](https://vostride.com) | [快速开始](https://vostride.com/docs/agent-qa/quickstart) · [源码](https://github.com/vostride/agent-qa) |
 
 
 
